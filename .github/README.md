@@ -80,7 +80,7 @@ deploy.yml:
 
 ### 4. On the GitHub web page, run the action manually, see figure 12.
 
-![](img/lab_01.png)
+![](../img/lab_01.png)
 
 ### 5. Inspect the running job with the web front end: it should go through the steps (Figure 13) and create a Docker image and container (Figure 14).
 
